@@ -16,7 +16,7 @@
     # 设置mysql的安装目录
     basedir=C:/_app/mysql-8.0.28-winx64
     # 设置 mysql数据库的数据的存放目录，MySQL 8+ 不需要以下配置，系统自己生成即可，否则有可能报错
-    # datadir=C:/web/sqldata
+    # datadir=C:/_app/mysql-8.0.28-winx64/data
     # 允许最大连接数
     max_connections=20
     # 服务端使用的字符集默认为8比特编码的latin1字符集
@@ -60,7 +60,7 @@
     > 注意: 在 5.7 需要初始化 data 目录：
     >
     > ```shell
-    > cd C:\web\mysql-8.0.11\bin 
+    > cd C:\_app\mysql-8.0.28-winx64\bin
     > mysqld --initialize-insecure 
     > ```
     >
