@@ -1,6 +1,6 @@
 # MySQL 安装
 
-## Window 环境下 ZIP 安装包安装
+## Windows 环境下 ZIP 安装包安装
 
 1. 前往[MySQL官网](https://dev.mysql.com/downloads/mysql/)，下载 ZIP 安装包并解压
 
